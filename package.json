@@ -29,6 +29,6 @@
     "passport-google-oauth20": "^2.0.0",
     "redis": "^2.8.0",
     "util": "^0.12.1",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
